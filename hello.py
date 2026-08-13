@@ -1,3 +1,4 @@
-name=input("Enter you name:")
-print("Hello,"+name+"!")
-print("Welcome to pythonn programminng.")
+name = "Selva"
+
+print("Hello, " + name + "!")
+print("Welcome to Python programming.")
